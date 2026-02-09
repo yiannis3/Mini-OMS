@@ -1,19 +1,20 @@
 # Build artifacts
 /build/
-CMakeCache.txt
-CMakeFiles/
-cmake_install.cmake
-compile_commands.json
+/CMakeCache.txt
+/CMakeFiles/
+/cmake_install.cmake
+/compile_commands.json
 *.ninja
-.ninja_*\n
-# Executables
-oms
-venue_sim
+.ninja_*
+
+# Executables (repo root)
+/oms
+/venue_sim
 
 # Runtime outputs
-fills.csv
+/fills.csv
 
 # Editor/OS
-.DS_Store
-.idea/
-.vscode/
+/.DS_Store
+/.idea/
+/.vscode/
