@@ -14,7 +14,7 @@ It implements:
 
 ## Requirements
 
-Ubuntu +:
+- Linux
 - g++ (C++17)
 - CMake
 - Ninja (optional but recommended)
